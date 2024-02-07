@@ -20,7 +20,7 @@ coreschema==0.0.4
 cryptography==3.4.6
 defusedxml==0.7.0rc2
 dj-rest-auth==2.1.4
-Django==3.1.7
+Django==3.2.24
 django-adminlte-3==0.1.6
 django-adminlte3==0.1.6
 django-allauth==0.44.0
